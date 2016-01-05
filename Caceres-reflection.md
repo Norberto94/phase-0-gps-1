@@ -17,3 +17,5 @@ Merge conflicts are still a bit confusing although I have been able to resolve t
 How was your first experience of pairing in a GPS?
 
 Very good, I enjoy working with others and having a mentor makes working thorugh a problem much smoother. I look foward to the next one.
+
+![https://github.com/Norberto94/phase-0-gps-1/blob/master/Caceres-reflection.md](/path/to/img.jpg)
